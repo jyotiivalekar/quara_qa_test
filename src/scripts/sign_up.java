@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.internal.ProfilesIni;
 import functionlibrary.FunctionLibrary;
 import globalvariable.GlobalVariable;
 
-public class SignInGmail {
+public class sign_up {
 	
 		//private WebDriver driver;
 		private String baseURL;
