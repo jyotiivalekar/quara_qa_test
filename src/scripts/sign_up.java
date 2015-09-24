@@ -27,18 +27,17 @@ public class sign_up {
 	public void setUp() 
 	{
 		
-	//	driver = new FirefoxDriver(ffprofile);
 		driver.manage().window().maximize() ;
-		baseURL = globalvariable.gmailUrl; 
+		baseURL = globalvariable.quaraUrl; 
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	}
 
 
 	@Test
-	public void GmailLogin() throws InterruptedException {
+	public void QuaraSignUP() throws InterruptedException {
 		try 
 		{
-			driver.get(baseURL + "/");
+			driver.get(baseURL + "");
 			String Gmail_UserName =  functionlibrary.ReadFromExcelFileData("logindetails","UserName", 1);
 			String Gmail_Password = functionlibrary.ReadFromExcelFileData("logindetails","Password", 1); 
 		    System.out.println("Gmail UserName : " + Gmail_UserName);
