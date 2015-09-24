@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/junit-4.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/cglib-nodep-2.1_3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/common-lang3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/junit-4.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jxl.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/sac-1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/workspace/quara_qa_test/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
